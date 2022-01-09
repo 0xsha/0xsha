@@ -1,10 +1,10 @@
-Hi there :raised_hand_with_fingers_splayed: 
+Hi there :raised_hand_with_fingers_splayed:  
 
 ## Quick Me :zap:
 
 - :man_office_worker: Software engineer, Security researcher
 - :mortar_board:BSC Information Technology, MCS Computer Science
-- 📝I publish some ideas on [my blog](https://blog.stanleylim.me/).
+- 📝I publish some ideas on [my blog](https://0xsha.io).
 - 🔭 Currently working on Pazari. (Web3 indie publication revolution )
 - :man_scientist: Researching on Web3/DeFi - Dev/Security
 
