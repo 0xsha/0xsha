@@ -49,8 +49,6 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 
 ## Stay connected :handshake:
 
-
-
 <div>
 <a href="https://twitter.com/0xsha">
 <img src="./social-icons/twitter.png" height=65 weight=65>
@@ -76,7 +74,9 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 
 </div>
 
+## Some Stats :bar_chart:
 
-
+<div>
 <img  src="https://github-readme-stats.vercel.app/api?username=0xsha&&show_icons=true&theme=radical"/>
   </a>
+<div>
