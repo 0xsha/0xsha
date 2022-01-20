@@ -74,9 +74,10 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 
 </div>
 
+ <!--
 ## Stats :bar_chart:                                    
                                    
-<!--<div>
+<div>
 <img  src="https://github-readme-stats.vercel.app/api?username=0xsha&&show_icons=true&theme=radical"/>
   </a>
 <div>  -->
