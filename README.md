@@ -5,7 +5,7 @@ Hi there :raised_hand_with_fingers_splayed:
 - :man_office_worker: Software engineer, Security researcher
 - :mortar_board:BSC Information Technology, MCS Computer Science
 - 📝I publish some ideas on [my blog](https://0xsha.io).
-- :man_scientist: Currently researching on Web3/DeFi - Dev/Security
+- :man_scientist: Currently researching on dApps - Dev/Security
 
 ## Tech Stack :man_technologist:
 
