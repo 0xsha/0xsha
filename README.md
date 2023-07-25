@@ -8,7 +8,6 @@ Hi there :raised_hand_with_fingers_splayed:
 - :man_scientist: Currently researching on dApps - Dev/Security
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tech Stack :man_technologist:
