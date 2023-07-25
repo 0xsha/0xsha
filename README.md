@@ -7,6 +7,10 @@ Hi there :raised_hand_with_fingers_splayed:
 - 📝I publish some ideas on [my blog](https://0xsha.io).
 - :man_scientist: Currently researching on dApps - Dev/Security
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tech Stack :man_technologist:
 
 Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, Mobile and Desktop Dev, DevSecOps, Security automation, web3, Smart contracts, machine learning tasks.
@@ -45,6 +49,7 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
 
 ## Stay connected :handshake:
 
