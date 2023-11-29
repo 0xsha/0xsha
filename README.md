@@ -13,104 +13,44 @@ Hi there :raised_hand_with_fingers_splayed:
 Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, Mobile and Desktop Dev, DevSecOps, Security automation, web3, Smart contracts, machine learning tasks.
 
 - Programming Languages
-  - Python
-  - JavaScript/TypeScript
-  - Solidity
-  - Golang
-  - Rust
-  - C
-  - PHP
+  - Python, JavaScript/TypeScript, Solidity, Golang, Rust, C, PHP
 
 - Front-End
-  - React/Next.js
-  - Vue/Nuxt.js
-  - Svelte/SvelteKit
+  - React/Next.js, Vue/Nuxt.js, Svelte/SvelteKit
 
 - Back-End
-  - Actix
-  - Fiber
-  - Deno
-  - Bun 
-  - Node.js
-  - Django
-  - Laravel
-  - Flask
-  - Express.js
-  - Fastify
-  - Gin
-  - Echo
-  - Actix
-  - Fiber
+  - Actix, Fiber, Deno, Bun, Django, Laravel, Flask, Fastify, Express, Echo
+
 
 - Blockchain
-  - EVM
-  - Hardhat
-  - Foundry 
-  - Viem
-  - Wagmi
-  - Ethers.js
-  - Web3.py 
-  - Ape
+  - EVM, Hardhat, Foundry, Viem, Wagmi, Ethers.js, Web3.py, Ape, Geth
 
 - Machine Learning
-  - Scikit-learn
-  - Keras
-  - Pandas
-  - Numpy
-  - Matplotlib
-  - Seaborn
-  - Pytorch
-  - Tensorflow
-  - Jupyter Notebook
-  - OpenAI
-  - LangChain 
+  -  Jupyter Notebook, Scikit-learn, Keras, Pandas, Numpy, Matplotlib, Seaborn, Pytorch, Tensorflow, OpenAI, LangChain 
 
 - DevOps
-  - Docker
-  - Kubernetes
-  - Github Actions
+  - Docker, Kubernetes, Github Actions
 
 - Databases
-  - PostgreSQL
-  - MySQL
-  - MongoDB
-  - Redis
-  - SQLite
+  - PostgreSQL, MySQL, MongoDB, Redis, SQLite
 
 - Cloud
-  - DigitalOcean
-  - AWS
-  - Vercel
-  - Fly
-  - Neon
-  - Supabase  
+  - DigitalOcean, AWS, Vercel, Fly, Neon, Supabase  
 
 - Security
-  - BurpSuite
-  - IDA Pro
-  - Ghidra
-  - X64dbg
-  - GDB/LLDB
+  - BurpSuite, IDA Pro, Ghidra, X64dbg, GDB/LLD
 
 - OS
-  - Kalilinux
-  - Ubuntu
-  - MacOS
-  - Windows 
+  - Mac OS, Kalilinux, Ubuntu, Windows 
 
 - Editors
-  - VSCode
-  - IntelliJ
-  - Vim
+  - VSCode, IntelliJ, Vim
 
 - Mobile
-  - React Native
-  - Flutter
+  - React Native, Flutter
 
 - Desktop
-  - Electron
-  - Tauri
-  - Wails
+  - Electron, Tauri, Wails
 
 
 ## Stay connected :handshake:
