@@ -2,7 +2,7 @@ Hi there :raised_hand_with_fingers_splayed:
 
 ## Me :zap:
 
-- :man_office_worker: 10+ years software & security engineer occasional startups CTO. 
+- :man_office_worker: 10+ years as a software and security engineer,  occasional startups CTO.
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
 - 📝I publish some ideas on [my personal website](https://0xsha.io).
 - :man_scientist: Currently focused on blockchain - Dev/Security
