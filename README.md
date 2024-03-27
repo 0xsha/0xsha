@@ -5,7 +5,7 @@ Hi there :raised_hand_with_fingers_splayed:
 - :man_office_worker: Software engineer, Security researcher
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
 - 📝I publish some ideas on [my blog](https://0xsha.io).
-- :man_scientist: Currently researching on dApps - Dev/Security
+- :man_scientist: Currently focused on blockchain - Dev/Security
 
 
 ## Tech Stack :man_technologist:
@@ -14,44 +14,30 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 
 - Programming Languages
   - Python, JavaScript/TypeScript, Solidity, Golang, Rust, C, PHP
-
 - Front-End
   - React/Next.js, Vue/Nuxt.js, Svelte/SvelteKit
-
 - Back-End
   - Actix, Fiber, Deno, Bun, Django, Laravel, Flask, Fastify, Express, Echo
-
-
 - Blockchain
   - EVM, Hardhat, Foundry, Viem, Wagmi, Ethers.js, Web3.py, Ape, Geth
-
 - Machine Learning
   -  Jupyter Notebook, Scikit-learn, Keras, Pandas, Numpy, Matplotlib, Seaborn, Pytorch, Tensorflow, OpenAI, LangChain 
-
 - DevOps
   - Docker, Kubernetes, Github Actions
-
 - Databases
   - PostgreSQL, MySQL, MongoDB, Redis, SQLite
-
 - Cloud
   - DigitalOcean, AWS, Vercel, Fly, Neon, Supabase  
-
 - Security
   - BurpSuite, IDA Pro, Ghidra, X64dbg, GDB/LLD
-
 - OS
   - Mac OS, Kalilinux, Ubuntu, Windows 
-
 - Editors
   - VSCode, IntelliJ, Vim
-
 - Mobile
   - React Native, Flutter
-
 - Desktop
   - Electron, Tauri, Wails
-
 
 ## Stay connected :handshake:
 
