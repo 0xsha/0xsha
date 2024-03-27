@@ -36,11 +36,9 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 
 <div>
 <a href="https://twitter.com/0xsha">
-<img src="./social-icons/x.png" height=65 weight=65>
+<img src="./social-icons/x.png" height=75 weight=75>
 </a>
-<a href="https://github.com/0xsha">
-<img src="./social-icons/github.png" height=65 weight=65>
-</a>
+
 <a href="https://www.linkedin.com/in/shah-r-a18994192/">
 <img src="./social-icons/linkedin.png" height=65 weight=65>
 </a>
