@@ -20,9 +20,7 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
   - Actix, Fiber, Deno, Bun, Django, Laravel, Flask, Fastify, Express, Echo
 - Blockchain
   - EVM, Hardhat, Foundry, Viem, Wagmi, Ethers.js, Web3.py, Ape, Geth
-- Machine Learning
-  -  Jupyter Notebook, Scikit-learn, Keras, Pandas, Numpy, Matplotlib, Seaborn, Pytorch, Tensorflow, OpenAI, LangChain 
-- DevOps
+ DevOps
   - Docker, Kubernetes, Github Actions
 - Databases
   - PostgreSQL, MySQL, MongoDB, Redis, SQLite
@@ -34,10 +32,7 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
   - Mac OS, Kalilinux, Ubuntu, Windows 
 - Editors
   - VSCode, IntelliJ, Vim
-- Mobile
-  - React Native, Flutter
-- Desktop
-  - Electron, Tauri, Wails
+
 
 ## Stay connected :handshake:
 
