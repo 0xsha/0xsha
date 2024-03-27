@@ -32,32 +32,6 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
   - BurpSuite, IDA Pro, Ghidra, X64dbg, GDB/LLD
 
 
-## Stay connected :handshake:
-
-<div>
-<a href="https://twitter.com/0xsha">
-<img src="./social-icons/x.png" height=85 weight=85>
-</a>
-
-<a href="https://www.linkedin.com/in/shah-r-a18994192/">
-<img src="./social-icons/linkedin.png" height=65 weight=65>
-</a>
-
-<!-- <a href="https://discordapp.com/users/0xSha">
-<img src="./social-icons/discord.png" height=65 weight=65>
-</a>
- -->
-<!-- <a href="https://www.youtube.com/channel/UCw0IZu3qeE04tctsVhJo3jg">
-<img src="./social-icons/youtube.png" height=65 weight=65>
-</a>
--->
-  
-<!-- 
-<a href="https://www.twitch.com/0xsha">
-<img src="./social-icons/twitch.png" height=65 weight=65>
-</a>
--->
-
 </div>
 
  <!--
