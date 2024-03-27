@@ -51,11 +51,13 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 <!-- <a href="https://www.youtube.com/channel/UCw0IZu3qeE04tctsVhJo3jg">
 <img src="./social-icons/youtube.png" height=65 weight=65>
 </a>
-
+-->
+  
+<!-- 
 <a href="https://www.twitch.com/0xsha">
 <img src="./social-icons/twitch.png" height=65 weight=65>
-</a> -->
-
+</a>
+-->
 
 </div>
 
