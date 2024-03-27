@@ -2,9 +2,9 @@ Hi there :raised_hand_with_fingers_splayed:
 
 ## Me :zap:
 
-- :man_office_worker: Software engineer, Security researcher (10+ years)
+- :man_office_worker: 10+ years software & security engineer occasional startups CTO. 
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
-- 📝I publish some ideas on [my blog](https://0xsha.io).
+- 📝I publish some ideas on [my personal website](https://0xsha.io).
 - :man_scientist: Currently focused on blockchain - Dev/Security
 
 
@@ -13,7 +13,7 @@ Hi there :raised_hand_with_fingers_splayed:
 Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, DevSecOps, Smart contracts, 
 
 - Programming Languages
-  - Python, JavaScript/TypeScript, Solidity, Golang, Rust, C, PHP
+  - Python, JavaScript, Solidity, Golang, C, PHP, Rust
 - Front-End
   - React/Next.js, Vue/Nuxt.js, Svelte/SvelteKit
 - Back-End
@@ -36,7 +36,7 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 
 <div>
 <a href="https://twitter.com/0xsha">
-<img src="./social-icons/twitter.png" height=65 weight=65>
+<img src="./social-icons/x.png" height=65 weight=65>
 </a>
 <a href="https://github.com/0xsha">
 <img src="./social-icons/github.png" height=65 weight=65>
