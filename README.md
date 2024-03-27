@@ -17,21 +17,17 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
 - Front-End
   - React/Next.js, Vue/Nuxt.js, Svelte/SvelteKit
 - Back-End
-  - Actix, Fiber, Deno, Bun, Django, Laravel, Flask, Fastify, Express, Echo
+  - Fiber, Deno, Bun, Django, Laravel, Flask
 - Blockchain
-  - EVM, Hardhat, Foundry, Viem, Wagmi, Ethers.js, Web3.py, Ape, Geth
- DevOps
-  - Docker, Kubernetes, Github Actions
+  - EVM, Foundry, Hardhat, Viem, Wagmi, Ethers.js, Web3.py, Ape, Geth
+- DevOps
+  - Docker, Github Actions
 - Databases
-  - PostgreSQL, MySQL, MongoDB, Redis, SQLite
+  - PostgreSQL, MySQL,  Redis, SQLite
 - Cloud
   - DigitalOcean, AWS, Vercel, Fly, Neon, Supabase  
 - Security
   - BurpSuite, IDA Pro, Ghidra, X64dbg, GDB/LLD
-- OS
-  - Mac OS, Kalilinux, Ubuntu, Windows 
-- Editors
-  - VSCode, IntelliJ, Vim
 
 
 ## Stay connected :handshake:
