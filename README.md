@@ -10,7 +10,7 @@ Hi there :raised_hand_with_fingers_splayed:
 
 ## Tech Stack :man_technologist:
 
-Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, Mobile and Desktop Dev, DevSecOps, Security automation, web3, Smart contracts, machine learning tasks.
+Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, DevSecOps, Smart contracts, 
 
 - Programming Languages
   - Python, JavaScript/TypeScript, Solidity, Golang, Rust, C, PHP
