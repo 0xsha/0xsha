@@ -1,6 +1,6 @@
 Hi there :raised_hand_with_fingers_splayed:  
 
-## Quick Me :zap:
+## Me :zap:
 
 - :man_office_worker: Software engineer, Security researcher
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
