@@ -4,10 +4,8 @@ Hi there :raised_hand_with_fingers_splayed:
 
 - :man_office_worker: 10+ years as a software and security engineer,  occasional startups CTO.
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
-- 📝 I publish some ideas on [my personal website](https://0xsha.io).
-- :man_scientist: Currently focused on blockchain - Dev/Security
 
-
+ <!--
 ## Tech Stack :man_technologist:
 
 Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, DevSecOps, Smart contracts, 
@@ -30,9 +28,7 @@ Here is my favorite (unordered) tech stack to build stuff, including Front-End, 
   - Pytorch, Keras, Numpy, Pandas, Scikit-learn
 - Security
   - BurpSuite, IDA Pro, Ghidra, X64dbg, GDB/LLD
-
-
-</div>
+-->
 
  <!--
 ## Stats :bar_chart:                                    
