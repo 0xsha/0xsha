@@ -4,7 +4,7 @@ Hi there :raised_hand_with_fingers_splayed:
 
 - :man_office_worker: 12+ years as a software and security engineer; occasional startups CTO.
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
-- 👨‍🔬: Current focus areas: DeFi, Ai.
+- 👨‍🔬 Current focus areas: DeFi, Ai.
 
  <!--
 ## Tech Stack :man_technologist:
