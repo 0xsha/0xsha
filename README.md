@@ -10,6 +10,8 @@ Hi there :raised_hand_with_fingers_splayed:
  <!--
 ## Tech Stack :man_technologist:
 
+# coding everyday 
+
 Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, DevSecOps, Smart contracts, 
 
 - Programming Languages
