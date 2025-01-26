@@ -10,7 +10,7 @@ Hi there :raised_hand_with_fingers_splayed:
  <!--
 ## Tech Stack :man_technologist:
 
-# coding everyday in secret
+# coding everyday in secret agents
 
 Here is my favorite (unordered) tech stack to build stuff, including Front-End, Back-End, DevSecOps, Smart contracts, 
 
