@@ -2,7 +2,7 @@ Hi there :raised_hand_with_fingers_splayed:
 
 ## Me :zap:
 
-- :man_office_worker: 12+ years as a software and security engineer; occasional startups CTO.
+- :man_office_worker: ~2 decades as a software and security engineer; occasional startups CTO.
 - :mortar_board: Computer Science PhD Student, MCS Computer Science, BSC Information Technology.
 - 👨‍🔬 Current focus areas: DeFi, Ai.
 
